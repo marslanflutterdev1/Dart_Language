@@ -12,6 +12,7 @@ void main() {
     'hira',
     '65'
   ];
+  userNames.every((element) => false)
   // print(userNames[userNames.length - 2]);
   // this is used to find secondLast item if list items may be billines
 
